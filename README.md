@@ -10,7 +10,7 @@ I create this repository for sharing the **detailed steps** of reproduction of c
 
 ### 2020
 
-1. Towards Inheritable Models for Open-set Domain Adaptation (updating)
+**1. Towards Inheritable Models for Open-set Domain Adaptation (updating)**
 
 [paper](https://arxiv.org/abs/2004.04388) 
 
@@ -22,7 +22,7 @@ I create this repository for sharing the **detailed steps** of reproduction of c
 
 ### 2020
 
-1. Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation
+**1.Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation**
 
 [paper](https://arxiv.org/abs/2002.08546)  
 
