@@ -14,9 +14,9 @@ I create this repository for sharing the **detailed steps** of reproduction of c
 
 [paper](https://arxiv.org/abs/2004.04388) 
 
-[author's code](https://sites.google.com/view/inheritune)  
+[original code](https://sites.google.com/view/inheritune)  
 
-[my code](https://github.com/simonshenm/IMODA_CVPR2020)
+[my work](https://github.com/simonshenm/IMODA_CVPR2020)
 
 ## ICML
 
@@ -26,6 +26,6 @@ I create this repository for sharing the **detailed steps** of reproduction of c
 
 [paper](https://arxiv.org/abs/2002.08546)  
 
-[author's code](https://github.com/tim-learn/SHOT)  
+[original code](https://github.com/tim-learn/SHOT)  
 
-[my code](https://github.com/simonshenm/SHOT_ICML2020)
+[my work](https://github.com/simonshenm/SHOT_ICML2020)
