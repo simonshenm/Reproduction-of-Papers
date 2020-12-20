@@ -1,5 +1,5 @@
 # Introduction
-Hi! This is Shen's work on reproduction of papers. We always encounter many problems when we implement the code provided by the authors. It's such an annoying thing for us. 
+Hi! This is my work on reproduction of papers. We always encounter many problems when we implement the code provided by the authors. It's such an annoying thing for us. 
 
 So here I am!
 
